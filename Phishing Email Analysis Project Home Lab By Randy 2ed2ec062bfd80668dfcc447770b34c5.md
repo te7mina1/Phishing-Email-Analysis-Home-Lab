@@ -1,4 +1,4 @@
-# Phishing Email Analysis Project | Home Lab | By Randy
+# Phishing Email Analysis Project | Home Lab
 
 ![goodPhish.png](Phishing%20Email%20Analysis%20Project%20Home%20Lab%20By%20Randy/goodPhish.png)
 
