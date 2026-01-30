@@ -1,5 +1,5 @@
 
-# Phishing Email Analysis Project
+# Phishing Email Analysis Project | Home Lab
 
 ## 🔍 Project Overview
 
